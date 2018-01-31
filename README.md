@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+CashmanViewTool::Renderer.copyright 'Andrew Cashman', 'All rights reserved'
+```
 
 ## Development
 
