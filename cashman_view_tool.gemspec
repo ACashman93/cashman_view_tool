@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Various view specific methods for applications I use.}
   spec.description   = %q{Provides generated HTML data for Rails application.}
-  spec.homepage      = "https://"
+  spec.homepage      = "https://github.com/ACashman93/cashman_view_tool"
   spec.license       = "MIT"
 
 
